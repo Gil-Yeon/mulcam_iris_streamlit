@@ -15,8 +15,8 @@ def main():
         st.subheader('탐색적 자료 분석')
     elif choice == '머신러닝':
         st.subheader('머신러닝')
-    elif choice == '머신러닝':
-        st.subheader('머신러닝')    
+    elif choice == 'About':
+        st.subheader('About')    
     else:
         pass
 
